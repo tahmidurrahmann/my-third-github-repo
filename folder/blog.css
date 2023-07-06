@@ -10,3 +10,17 @@ div{
     padding: 10px;
     background-image: url('images/wp11551447-cyberpunk-style-wallpapers.jpg');
 }
+.paragraph{
+    border: 2px;
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px tomato;
+    box-sizing: border-box;
+    color: black;
+    background-color: lightcyan;
+    background-position: bottom;
+    background-image: url('images/wp12000414-cyberpunk-style-wallpapers.jpg');
+    display: inline-block;
+    background-size: contain;
+    height: 300px;
+   max-width: 500px;
+}
