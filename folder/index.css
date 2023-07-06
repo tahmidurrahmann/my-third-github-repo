@@ -5,3 +5,11 @@ div{
     margin: 5px;
     text-align: center;
 }
+#github{
+    color: black;
+    background-color: lightslategray;
+    text-align: center;
+    background-image: url('images/wp11551447-cyberpunk-style-wallpapers.jpg');
+    margin: 10px;
+    padding: 10px;
+}
